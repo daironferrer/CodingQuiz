@@ -1,0 +1,84 @@
+body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    background: #404040;
+    color: white;
+    font-size: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.grid {
+    width: 700px;
+    height: 600px;
+    padding: 50px;
+    border: 4px solid white;
+}
+
+.grid h1 {
+    background-color: red;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding: 4px;
+}
+
+#btn1 {
+    background-color: red;
+    width: 250px;
+    height: 50px;
+    border: 2px solid black;
+    margin: 12px 50px 12px 12px;
+    padding: 12px;
+    margin-top: 20px;
+}
+
+#btn2 {
+    background-color: red;
+    width: 250px;
+    height: 50px;
+    border: 2px solid black;
+    margin: 12px 50px 12px 12px;
+    padding: 12px;
+    margin-top: 20px;
+}
+
+#btn3 {
+    background-color: red;
+    width: 250px;
+    height: 50px;
+    border: 2px solid black;
+    margin: 12px 50px 12px 12px;
+    padding: 12px;
+    margin-top: 20px;
+}
+
+#btn4 {
+    background-color: red;
+    width: 250px;
+    height: 50px;
+    border: 2px solid black;
+    margin: 12px 50px 12px 12px;
+    padding: 12px;
+    margin-top: 20px;
+}
+
+.grid #question {
+    text-align: center;
+    font-size: 25px;
+}
+
+#scores {
+    text-align: center;
+    font-size: 25px;
+}
+
+#progression {
+    font-size: 20px;
+}
+
+
